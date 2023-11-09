@@ -67,3 +67,4 @@ ctrlp.root
 *.html
 
 STM32CubeIDE/Debug
+build
