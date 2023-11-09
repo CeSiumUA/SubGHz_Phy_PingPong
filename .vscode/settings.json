@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "radio_board_if.h": "c",
-        "platform.h": "c",
-        "stm32wlxx_nucleo_radio.h": "c"
-    }
-}
