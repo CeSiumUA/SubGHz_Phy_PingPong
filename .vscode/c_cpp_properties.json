@@ -1,9 +1,8 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "ARM",
             "includePath": [
-                "${workspaceFolder}/**",
                 "${workspaceFolder}/Core/Inc",
                 "${workspaceFolder}/SubGHz_Phy/App",
                 "${workspaceFolder}/SubGHz_Phy/Target",
@@ -25,8 +24,10 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "cppStandard": "gnu++14",
-            "intelliSenseMode": "windows-gcc-arm"
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "configurationProvider": "ms-vscode.makefile-tools"
         }
     ],
     "version": 4
