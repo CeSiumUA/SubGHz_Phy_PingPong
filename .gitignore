@@ -65,3 +65,5 @@ ctrlp.root
 
 #html
 *.html
+
+STM32CubeIDE/Debug
