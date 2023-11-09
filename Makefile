@@ -158,8 +158,7 @@ C_INCLUDES =  \
 -IDrivers/CMSIS/Device/ST/STM32WLxx/Include \
 -IMiddlewares/Third_Party/SubGHz_Phy \
 -IMiddlewares/Third_Party/SubGHz_Phy/stm32_radio_driver \
--IDrivers/CMSIS/Include \
--I../Drivers/BSP/STM32WLxx_Nucleo
+-IDrivers/CMSIS/Include
 
 
 # compile gcc flags
