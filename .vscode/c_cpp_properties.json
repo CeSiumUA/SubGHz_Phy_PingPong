@@ -22,7 +22,8 @@
             "defines": [
                 "_DEBUG",
                 "UNICODE",
-                "_UNICODE"
+                "_UNICODE",
+                "STM32WL55xx"
             ],
             "cStandard": "c11",
             "cppStandard": "c++17",
