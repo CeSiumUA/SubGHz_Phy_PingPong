@@ -52,8 +52,8 @@ Core/Src/stm32wlxx_hal_msp.c \
 SubGHz_Phy/App/app_subghz_phy.c \
 SubGHz_Phy/App/subghz_phy_app.c \
 SubGHz_Phy/Target/radio_board_if.c \
-../Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.c \
-../Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.c \
+Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo.c \
+Drivers/BSP/STM32WLxx_Nucleo/stm32wlxx_nucleo_radio.c \
 Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rcc.c \
 Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rcc_ex.c \
 Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_flash.c \
@@ -150,6 +150,7 @@ C_INCLUDES =  \
 -IUtilities/trace/adv_trace \
 -IDrivers/STM32WLxx_HAL_Driver/Inc \
 -IDrivers/STM32WLxx_HAL_Driver/Inc/Legacy \
+-IDrivers/BSP/STM32WLxx_Nucleo \
 -IUtilities/misc \
 -IUtilities/sequencer \
 -IUtilities/timer \
