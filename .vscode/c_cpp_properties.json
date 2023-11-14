@@ -9,7 +9,7 @@
                 "${workspaceFolder}/Utilities/trace/adv_trace",
                 "${workspaceFolder}/Drivers/STM32WLxx_HAL_Driver/Inc",
                 "${workspaceFolder}/Drivers/STM32WLxx_HAL_Driver/Inc/Legacy",
-                "${workspaceFolder}/Drivers/BSP/STM32WLxx_Nucleo",
+                "${workspaceFolder}/Drivers/BSP",
                 "${workspaceFolder}/Utilities/misc",
                 "${workspaceFolder}/Utilities/sequencer",
                 "${workspaceFolder}/Utilities/timer",
